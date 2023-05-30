@@ -99,6 +99,8 @@ Here are some sample queries you can run to check inheritance on vehicle tables:
 
 
 Sami Benyacoub
+
+
 Kevin Coaquira
 
 
