@@ -27,7 +27,7 @@ The database consists of the following tables:
 # Tables
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here we have the tables that we made 
+Here we have the tables that we made, and we also have the file `inheritance.sql` that has the code
 
 ![image](https://github.com/sami24120/12_02_ASSI_inheritance/assets/116269453/c0408f92-96c4-452b-b99f-e2e820d4745f)
 
