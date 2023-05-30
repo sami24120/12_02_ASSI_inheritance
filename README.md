@@ -5,7 +5,9 @@
 # Objective
 
 In this assignement we created our own example of inheritance
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Tables
 
 ![image](https://github.com/sami24120/12_02_ASSI_inheritance/assets/116269453/c0408f92-96c4-452b-b99f-e2e820d4745f)
 
