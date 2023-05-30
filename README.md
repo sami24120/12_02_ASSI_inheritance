@@ -57,6 +57,9 @@ INSERT COCHES
 
 ![image](https://github.com/sami24120/12_02_ASSI_inheritance/assets/116269453/fcc46f8a-f66b-490a-b3d5-210385049607)
 
+![image](https://github.com/sami24120/12_02_ASSI_inheritance/assets/116269453/6b9d62e1-f643-464c-adb3-146236519e0f)
+
+
 The value 2.3 of motor referes to the engine of the car, the engine is called  2.3 Ecoboost, and the value 450 is the horsepower that the car has.
 
 
@@ -84,7 +87,8 @@ Here are some sample queries you can run to check inheritance on vehicle tables:
 
   - Get only car records and their attributes:
 
-![image](https://github.com/sami24120/12_02_ASSI_inheritance/assets/116269453/8283afea-efe3-443e-96a9-6e9a11dc4405)
+![image](https://github.com/sami24120/12_02_ASSI_inheritance/assets/116269453/ee794054-9cc8-4505-aadc-b2bd7893f075)
+
 
   - Get just the bike records and their attributes:
 
